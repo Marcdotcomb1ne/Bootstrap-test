@@ -1,0 +1,39 @@
+body{
+    background-image: url("caca.jpg");
+    background-size: cover;
+}
+
+article{
+    margin: 50px;
+    width: 700px;
+    color: white;
+    font-size: 15px;
+}
+h1#titulo{
+    margin: 10px;
+    color: white;
+}
+
+#id{
+    margin: 10px;
+    width: 300px;
+}
+
+#botao{
+    margin: 10px;
+    width: 300px;
+}
+
+#visu{
+    font-size: 30px;
+    float: right;
+    justify-content: right;
+    color: white;
+}
+
+img{
+    width: 300px;
+    float: right;
+    margin-top: 500px;
+    margin-right: 30px;
+}
